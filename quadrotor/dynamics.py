@@ -65,6 +65,8 @@ def qp_z(state, u_hat):
     return u[0]
 
 
+
+
 class QuadDynamics:
     def __init__(self):
         self.param_dict = param_dict
